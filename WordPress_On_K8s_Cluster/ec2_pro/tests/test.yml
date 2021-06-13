@@ -1,6 +1,0 @@
----
-- hosts: localhost
-  remote_user: root
-  roles:
-    - ec2_pro
-~

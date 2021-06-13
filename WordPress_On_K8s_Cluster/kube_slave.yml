@@ -1,3 +1,0 @@
-- hosts: slave
-  roles:
-          - role: kube_slave
