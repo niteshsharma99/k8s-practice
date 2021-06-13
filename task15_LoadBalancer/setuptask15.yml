@@ -1,7 +1,0 @@
-- hosts: Webservers
-  roles:
-  - role: "myapache"
-
-- hosts: LoadBalancer
-  roles:
-  - role: "haproxyLB"
